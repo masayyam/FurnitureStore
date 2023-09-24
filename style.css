@@ -49,4 +49,25 @@ hr{
   margin-top: 10px;
 }
 /* Top NavBar ends */
-/* Top NavBar ends */
+
+/* Main NavBar starts */
+ul{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+ul li{
+  list-style: none;
+}
+ul li a{
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
+.active{
+  color: red;
+}
+
+/* Main NavBar ends */
