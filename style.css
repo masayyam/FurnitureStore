@@ -12,3 +12,41 @@ body{
   font-family: 'Outfit', sans-serif;
   font-family: 'Roboto', sans-serif;
 }
+.container{
+  width: 1125px;
+  margin: 0 auto;
+}
+/* Top NavBar starts */
+.nav-container{
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.login{
+  display: flex;
+}
+.login button{
+  margin-right: 20px;
+}
+.btn{
+  padding: 10px 16px;
+  font-size: 16px;
+}
+.btn-sign{
+  width: 120px;
+  background-color: #DCDADA;
+  border: none;
+  cursor: pointer;
+}
+.cart{
+  cursor: pointer;
+}
+hr{
+  width: 200%;
+  position: relative;
+  left: -50%;
+  margin-top: 10px;
+}
+/* Top NavBar ends */
+/* Top NavBar ends */
