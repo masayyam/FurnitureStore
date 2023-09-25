@@ -137,3 +137,19 @@ margin-bottom: 10px;
   background-color: #fff;
 }
 /* Discover more ends */
+
+/* Instagram gallery starts */
+.gallery-main{
+  margin-top: 80px;
+}
+.gallery-main h2{
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.gallery-items{
+  display: flex;
+  justify-content: space-between;
+}
+/* Instagram gallery ends */
