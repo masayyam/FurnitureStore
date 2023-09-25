@@ -224,12 +224,14 @@ margin-bottom: 10px;
   height: 420px;
   background-color: var(--yellow-main);
 }
-.support, .all-about-shop, .company{
+.support, .all-about-shop{
   margin-left: 20px;
+}
+.company{
+  margin-right: 20px;
 }
 .support, .all-about-shop, .company h2{
   padding-top: 20px;
-  padding-bottom: 20px;
 }
 .support-list, .shop-list, .comp-list{
   display: flex;
@@ -262,11 +264,12 @@ margin-bottom: 10px;
   display: flex;
   justify-content: space-between;
   padding-top: 25px;
-  padding-right: 10pxs;
+  padding-right: 10px;
 }
 .social img{
   height: 25px;
   width: 25px;
+  cursor: pointer;
 }
 /* Footer bottom ends */
 
