@@ -153,3 +153,31 @@ margin-bottom: 10px;
   justify-content: space-between;
 }
 /* Instagram gallery ends */
+
+/* Latest arrival starts */
+.latest-arrivals{
+  margin-top: 80px;
+}
+.latest-arrivals h2{
+  text-transform: uppercase;
+}
+span::after{
+  content: "\00a0\00a0\00a0\00a0\00a0";
+  margin-left: 10px;
+  text-decoration: line-through;
+}
+.item p{
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 400;
+  font-family: 'Outfit', sans-serif;
+}
+.arrival-items{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 3em;
+}
+/* Latest arrival ends */
+
