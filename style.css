@@ -284,3 +284,24 @@ margin-bottom: 10px;
 
 /* Login Page ends */
 
+/* Registration page starts */
+.form-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.reg-form{
+  margin-top: 50px;
+}
+input{
+  padding: 8px;
+}
+#rsubmit{
+  width: 100%;
+  cursor: pointer;
+}
+
+
+
+/* Registration page ends */
