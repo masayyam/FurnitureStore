@@ -278,14 +278,9 @@ margin-bottom: 10px;
 .login-form{
   margin-top: 100px;
 }
-#email{
+#email, #password, #fname{
   padding: 5px;
 }
-#password{
-  padding: 5px;
-}
-.btn-login{
-  
-}
+
 /* Login Page ends */
 
