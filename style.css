@@ -273,4 +273,19 @@ margin-bottom: 10px;
   cursor: pointer;
 }
 /* Footer bottom ends */
+ 
+/* Login Page starts */
+.login-form{
+  margin-top: 100px;
+}
+#email{
+  padding: 5px;
+}
+#password{
+  padding: 5px;
+}
+.btn-login{
+  
+}
+/* Login Page ends */
 
