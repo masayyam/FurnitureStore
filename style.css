@@ -45,6 +45,7 @@ body{
 }
 .cart{
   cursor: pointer;
+  margin-top: 8px;
 }
 hr{
   margin-top: 10px;
